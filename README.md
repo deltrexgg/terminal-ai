@@ -1,21 +1,4 @@
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Terminal AI — Local Code Debugging Assistant</title>
-  <style>
-    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial; line-height:1.6; color:#111; padding:24px; max-width:900px; margin:auto; }
-    h1,h2,h3 { color:#111; margin-top:1.2rem; }
-    pre { background:#f6f8fa; padding:12px; border-radius:6px; overflow:auto; }
-    code { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, "Roboto Mono", "Courier New", monospace; }
-    table { border-collapse:collapse; margin-top:8px; }
-    td, th { border:1px solid #e1e4e8; padding:8px 12px; text-align:left; }
-    .muted { color:#555; font-size:0.95rem; }
-    .note { background:#fff8e6; padding:10px; border-radius:6px; border:1px solid #f0dca4; margin:12px 0; }
-  </style>
-</head>
-<body>
+
 
   <h1>Terminal AI — Local Code Debugging Assistant</h1>
 
@@ -154,5 +137,3 @@ sudo chmod +x /usr/local/bin/tai</code></pre>
   <hr />
   <p class="muted">If you want, I can produce a plain <code>README.md</code> (Markdown) or add systemd unit examples, healthchecks, or a packaging script for reproducible releases.</p>
 
-</body>
-</html>
