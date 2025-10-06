@@ -135,5 +135,4 @@ sudo chmod +x /usr/local/bin/tai</code></pre>
   <p>MIT</p>
 
   <hr />
-  <p class="muted">If you want, I can produce a plain <code>README.md</code> (Markdown) or add systemd unit examples, healthchecks, or a packaging script for reproducible releases.</p>
 
